@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 310" role="img" aria-label="San Ignacio">
-  <path d="M30 32h200v162c0 50-40 78-100 102-60-24-100-52-100-102V32Z" fill="#121212" stroke="#fff" stroke-width="9"/>
-  <path d="M43 48h174v139c0 39-29 62-87 86-58-24-87-47-87-86V48Z" fill="#d71920"/>
-  <path d="M64 66h132v176" stroke="#111" stroke-width="22"/>
-  <path d="M64 66h132" stroke="#fff" stroke-width="7"/>
-  <text x="130" y="84" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="900" fill="#fff">SAN IGNACIO</text>
-  <text x="130" y="175" text-anchor="middle" font-family="Georgia, serif" font-size="64" font-weight="900" fill="#fff">FC</text>
-</svg>
